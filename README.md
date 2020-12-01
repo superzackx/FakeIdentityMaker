@@ -9,3 +9,11 @@ Makes a fake identity
 $ npm i fakeidentitymaker
 
 ```
+
+## Usage
+
+```
+const identity = require("fakeidentitymaker")
+var do = identity();
+
+```
